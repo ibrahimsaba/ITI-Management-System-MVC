@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\bin\Debug\net8.0\MyModels.deps.json
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\bin\Debug\net8.0\MyModels.runtimeconfig.json
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\bin\Debug\net8.0\MyModels.dll
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\bin\Debug\net8.0\MyModels.pdb
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\obj\Debug\net8.0\MyModels.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\obj\Debug\net8.0\MyModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\obj\Debug\net8.0\MyModels.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\obj\Debug\net8.0\MyModels.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\obj\Debug\net8.0\MyModels.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\obj\Debug\net8.0\MyModels.dll
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\obj\Debug\net8.0\refint\MyModels.dll
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\obj\Debug\net8.0\MyModels.pdb
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\obj\Debug\net8.0\MyModels.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MVC\Mvc S2\MyModels\obj\Debug\net8.0\ref\MyModels.dll

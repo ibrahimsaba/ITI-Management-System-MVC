@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Mvc S2/Mvc S2.csproj" />
+  <Project Path="MyModels/MyModels.csproj" />
+</Solution>
